@@ -6,20 +6,20 @@ Uploaded to GitHub so I could keep track.
 # Some projects are from Hackathons.
 
 Technologies Used so Far (may not be up to date)
-HTML (ofc) and CSS
-used RESTful API endpoints from various places
-React
-JavaScript
-  Bootstrap
+HTML (ofc) and CSS 
+used RESTful API endpoints from various places 
+React 
+JavaScript 
+  Bootstrap 
   Awesome Fonts
-AngularJS
-Vue.js
+AngularJS 
+Vue.js 
 
 Java 
 Python
 
-Tomcat
+Tomcat 
 Flask
 
-SQL Server
+SQL Server 
 MongoDB

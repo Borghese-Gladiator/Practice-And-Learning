@@ -10,8 +10,9 @@ HTML (ofc) and CSS
 used RESTful API endpoints from various places  
 React  
 JavaScript  
-  Bootstrap  
-  Awesome Fonts  
+---Bootstrap  
+---Awesome Fonts  
+---jQuery   
 AngularJS  
 Vue.js  
 
